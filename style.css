@@ -1,0 +1,13 @@
+body{
+    color: black;
+    background-color: aliceblue;
+}
+#camera{
+    border: 1px dashed black;
+   width: 350px;
+   height: 300px;
+}
+.name_of_faces,#result_face_name,result_face_accuracy{
+    color:black;
+    background-color: rgb(192, 142, 192);
+}
